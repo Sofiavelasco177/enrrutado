@@ -1,0 +1,29 @@
+.homepage-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: url('https://files.oaiusercontent.com/file-V0NzER8BZ5jErRhalme91nPS?se=2024-10-31T19%3A47%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0a4f14aa-be2f-4139-a316-cd5fb1bfb2e5.webp&sig=S4FyOmzrDRy9PzocXKBPgErQQQeGKv9SxtOPYMA06sk%3D');
+    padding: 20px;
+  }
+  
+  .homepage-title {
+    font-size: 3 rem ;
+    font-weight: bold;
+    color: #ded2cd;
+    margin-bottom: 10 px;
+    text-transform: uppercase;
+    text-align: center;
+    
+  }
+  
+  .homepage-subtitle {
+    font-size: 1.5rem;
+    color: #715d4e;
+    text-align: center;
+    max-width: 600px;
+    font-style: normal;
+
+  }
+

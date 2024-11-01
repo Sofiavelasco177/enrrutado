@@ -1,0 +1,46 @@
+/* src/pages/product.css */
+
+/* Asegura que ocupe el 100% de la pantalla */
+.products-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100%; /* Asegura que ocupe todo el ancho */
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box; /* Evita que el padding afecte el ancho */
+    background-image: url('https://th.bing.com/th/id/OIP.-0EbzTgSGz4ksDWAZjY5HQHaGL?w=2352&h=1960&rs=1&pid=ImgDetMain');
+  }
+  
+  /* Estilo del título */
+  .products-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+  
+  /* Estilo de la lista */
+  .products-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .product-item {
+    margin: 10px 0;
+    font-size: 1.2rem;
+  }
+  
+  .product-item a {
+    text-decoration: none;
+    color: #007acc;
+  }
+  
+  .product-item a:hover {
+    text-decoration: underline;
+    color: #005999;
+  }
+  

@@ -1,0 +1,35 @@
+/* Centrado del contenedor principal */
+.product-details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+    text-align: center;
+    background-image: url('https://th.bing.com/th/id/OIP.-0EbzTgSGz4ksDWAZjY5HQHaGL?w=2352&h=1960&rs=1&pid=ImgDetMain');
+  }
+  
+  /* Estilos del título */
+  .product-details-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos del precio */
+  .product-details-price {
+    font-size: 1.5rem;
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos de la descripción */
+  .product-details-description {
+    font-size: 1.2rem;
+    color: #555;
+    max-width: 600px;
+    line-height: 1.6;
+  }
+  
