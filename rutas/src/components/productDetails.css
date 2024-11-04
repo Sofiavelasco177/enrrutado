@@ -7,28 +7,30 @@
     min-height: 100vh;
     padding: 20px;
     text-align: center;
-    background-image: url('https://th.bing.com/th/id/OIP.-0EbzTgSGz4ksDWAZjY5HQHaGL?w=2352&h=1960&rs=1&pid=ImgDetMain');
-  }
+    background-image: url('https://hkairportshop.com/media/catalog/category/electronic-category-banner-new-color-resize-1_3.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
   
   /* Estilos del título */
   .product-details-title {
     font-size: 2rem;
     font-weight: bold;
-    color: #333;
+    color: #4a564b;
     margin-bottom: 20px;
   }
   
   /* Estilos del precio */
   .product-details-price {
     font-size: 1.5rem;
-    color: #007bff;
+    color: #1b1daa;
     margin-bottom: 10px;
   }
   
   /* Estilos de la descripción */
   .product-details-description {
     font-size: 1.2rem;
-    color: #555;
+    color: #0d1d16;
     max-width: 600px;
     line-height: 1.6;
   }

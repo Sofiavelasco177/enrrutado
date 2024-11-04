@@ -11,14 +11,16 @@
     text-align: center;
     padding: 20px;
     box-sizing: border-box; /* Evita que el padding afecte el ancho */
-    background-image: url('https://th.bing.com/th/id/OIP.-0EbzTgSGz4ksDWAZjY5HQHaGL?w=2352&h=1960&rs=1&pid=ImgDetMain');
+    background-image: url('https://hkairportshop.com/media/catalog/category/electronic-category-banner-new-color-resize-1_3.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
   }
   
   /* Estilo del título */
   .products-title {
     font-size: 2rem;
     font-weight: bold;
-    color: #333;
+    color: #4d4c4c;
     margin-bottom: 20px;
     text-transform: uppercase;
   }
